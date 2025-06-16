@@ -26,5 +26,4 @@ Design a reliable and safe control board for a motorized can crusher.
 Learn best practices in PCB design and prototyping.
 
 ## Preview
-
-
+![Schematic Preview](Schematic.png)
