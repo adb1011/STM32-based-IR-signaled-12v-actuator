@@ -1,4 +1,4 @@
-## Can Crusher - KiCad Project - IR Controlled 12V Linear Actuator Driver
+## Can Crusher - KiCad Project - IR signaled STM32 12V Linear Actuator Driver
 This repository contains the KiCad schematic and design files for an electric can crusher project. The goal is to automate the process of crushing aluminum cans using a custom-designed electronic circuit and actuator system.
 
 ## Project Overview
